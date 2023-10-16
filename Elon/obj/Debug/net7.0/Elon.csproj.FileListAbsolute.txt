@@ -1,0 +1,15 @@
+/Users/chelia/buildingchelia/Script C#/Elon/Elon/obj/Debug/net7.0/Elon.csproj.AssemblyReference.cache
+/Users/chelia/buildingchelia/Script C#/Elon/Elon/obj/Debug/net7.0/Elon.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chelia/buildingchelia/Script C#/Elon/Elon/obj/Debug/net7.0/Elon.AssemblyInfoInputs.cache
+/Users/chelia/buildingchelia/Script C#/Elon/Elon/obj/Debug/net7.0/Elon.AssemblyInfo.cs
+/Users/chelia/buildingchelia/Script C#/Elon/Elon/obj/Debug/net7.0/Elon.csproj.CoreCompileInputs.cache
+/Users/chelia/buildingchelia/Script C#/Elon/Elon/bin/Debug/net7.0/Elon
+/Users/chelia/buildingchelia/Script C#/Elon/Elon/bin/Debug/net7.0/Elon.deps.json
+/Users/chelia/buildingchelia/Script C#/Elon/Elon/bin/Debug/net7.0/Elon.runtimeconfig.json
+/Users/chelia/buildingchelia/Script C#/Elon/Elon/bin/Debug/net7.0/Elon.dll
+/Users/chelia/buildingchelia/Script C#/Elon/Elon/bin/Debug/net7.0/Elon.pdb
+/Users/chelia/buildingchelia/Script C#/Elon/Elon/obj/Debug/net7.0/Elon.dll
+/Users/chelia/buildingchelia/Script C#/Elon/Elon/obj/Debug/net7.0/refint/Elon.dll
+/Users/chelia/buildingchelia/Script C#/Elon/Elon/obj/Debug/net7.0/Elon.pdb
+/Users/chelia/buildingchelia/Script C#/Elon/Elon/obj/Debug/net7.0/Elon.genruntimeconfig.cache
+/Users/chelia/buildingchelia/Script C#/Elon/Elon/obj/Debug/net7.0/ref/Elon.dll
