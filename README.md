@@ -1,7 +1,8 @@
 
 <img width="1024" height="1024" alt="IMG_20261031_112613_983" src="https://github.com/user-attachments/assets/f5763585-f7b1-4ced-8feb-e08ad5918d6e" />
 
-
+⬇️  [![Télécharger APK]((https://github.com/helia0/Ne-te-fais-pas-attraper-par-Elon-Musk/releases))
+  
 
 # Ne-te-fais-pas-attraper-par-Elon-Musk
 # Jeu de Labyrinth
